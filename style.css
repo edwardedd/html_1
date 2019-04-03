@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 .header {
-font-family: Roboto;san-serif;
-font-style: 30px;
+font-family: Roboto;
+font-size: 30px;
 color: white;
 background-color: #849DC3;
 padding: 15px 0 15px 10px;
